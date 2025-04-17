@@ -3,6 +3,8 @@ This project explores the use of a conditioned generative model to generate real
 
 The project demonstrates the model's ability to produce feasible solutions within specified lift coefficient thresholds, and the possibility of applying conditional generative models in optimization problems.
 
+**Update Apr17, 2025**: See the project report at `project_report.pdf`.
+
 ---
 
 ### Intro
